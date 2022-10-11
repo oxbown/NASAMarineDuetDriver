@@ -1,7 +1,7 @@
 #include <arduino-timer.h>
 #include <avr/wdt.h>
 
-/* nasamarine duet driver
+/* nasamarine duet driver aaa
 *
 *
 *connecting to the device:
